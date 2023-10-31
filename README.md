@@ -1,9 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Ronaldo Jr</h1>
+<h1 align="center">Olá 👋, eu sou Ronaldo Jr.</h1>
 <h3 align="center">Esse é meu git :)</h3>
 
 - 🔭 Atualmente estou focado com **Flutter**
-
-- 🌱 Estou aprendendo **spring, flutter**
 
 - 📫 Pode me encontrar em **ronaldojunior1804@gmail.com**
 
